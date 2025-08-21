@@ -1,0 +1,15 @@
+:root{
+      --primary-color: rgb(52, 65, 116);
+      --secundary-color: rgb(33, 42, 75);
+}
+button{
+    background-color: var(--primary-color);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover{
+    background-color: var(--secundary-color);
+}

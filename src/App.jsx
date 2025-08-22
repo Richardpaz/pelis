@@ -12,6 +12,7 @@ export function App() {
       <Header />
       <div className="movie-list">
         <Movies />
+        <h1>hola mundo</h1>
       </div>
     </div>
   );
